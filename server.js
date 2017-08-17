@@ -43,7 +43,7 @@ function createTemplate(data){
             <h2>
             ${heading}
             </h2>
-            <div id='l'>
+            <div>
             ${date}
             </div>
             <div>
